@@ -25,7 +25,6 @@ PRODUCT_VENDOR_KERNEL_HEADERS += device/sony/sirius/kernel-headers
 
 TARGET_TAP_TO_WAKE_NODE := "/sys/devices/virtual/input/max1187x/wakeup_gesture"
 
-TARGET_RECOVERY_IS_MULTIROM := true
 MR_DPI := hdpi
 MR_DPI_FONT := 340
 MR_DEVICE_VARIANTS := z2
